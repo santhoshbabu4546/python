@@ -1,5 +1,5 @@
-s=input()
-if s.isdigit():
-   print("invalid")
- else:
-   print(s[::-1])
+a=input()
+if a.isdigit():
+  print("invalid")
+else:
+  print(a[::-1])
