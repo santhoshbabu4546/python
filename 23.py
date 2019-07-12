@@ -1,5 +1,5 @@
 i=input()
-i=list(n)
+i=list(i)
 i.append('.')
 ser="".join(i)
 print(ser)
