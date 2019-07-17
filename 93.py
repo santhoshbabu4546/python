@@ -1,0 +1,9 @@
+n=int(input())
+i=0
+if(n<60):
+  print(0,n)
+else:
+  while(n>=60):
+    n=n-60;
+    i=i+1
+  print(i,n)
