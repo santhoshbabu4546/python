@@ -6,6 +6,6 @@ for k in range(x-1):
     if u[k]+u[p]==y1:
       z=1
 if z==0:
-  print("no")
+  print("yes")
 else:
   print("yes")
